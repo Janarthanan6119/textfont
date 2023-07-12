@@ -1,0 +1,20 @@
+div{
+    width:200px;
+    height: 200px;
+    border: 1px solid blue;
+    text-decoration-line:overline ;
+    text-decoration-color: brown;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 5px;
+    /* text-align: center; */
+    text-transform: capitalize;
+    text-decoration: none;
+    text-indent: 20px;
+    letter-spacing: 2px;
+    line-height: 17px;
+    word-spacing: 7px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+    font-style:oblique;
+
+}
